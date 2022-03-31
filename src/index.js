@@ -1,3 +1,3 @@
 import './scss/style.scss'
 
-console.log("start")
+console.log('start')
