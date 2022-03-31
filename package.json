@@ -5,7 +5,8 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.12.1",
-    "excel-course": "^1.0.7"
+    "excel-course": "^1.0.7",
+    "normalize.css": "^8.0.1"
   },
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
